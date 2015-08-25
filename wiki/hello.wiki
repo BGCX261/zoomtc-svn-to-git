@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>ctootc BossComing Boss Key Update Configuration</title>
+    </head>
+    <body>
+        progName:ctootc BossComing Boss Key</br>
+        version:3.1.290</br>
+        revision:290</br>
+        url:http://ctootc/download.htm</br>
+        requiredMiniRevision:200</br>
+    </body>
+</html>
